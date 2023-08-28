@@ -1,0 +1,944 @@
+{
+  "n_queries": 15160,
+  "n_decisions": 1184,
+  "n_correct_decisions": 1164,
+  "clusters": [
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/116.jpg",
+        "cluster_id": 0,
+        "true_cluster_id": 18,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/114.jpg",
+        "cluster_id": "0",
+        "true_cluster_id": 18,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/115.jpg",
+        "cluster_id": "0",
+        "true_cluster_id": 18,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/120.jpg",
+        "cluster_id": "0",
+        "true_cluster_id": 18,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/117.jpg",
+        "cluster_id": "0",
+        "true_cluster_id": 18,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/111.jpg",
+        "cluster_id": "0",
+        "true_cluster_id": 18,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/119.jpg",
+        "cluster_id": "0",
+        "true_cluster_id": 18,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/122.jpg",
+        "cluster_id": "0",
+        "true_cluster_id": 19,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/113.jpg",
+        "cluster_id": "0",
+        "true_cluster_id": 18,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/118.jpg",
+        "cluster_id": "0",
+        "true_cluster_id": 18,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/121.jpg",
+        "cluster_id": 1,
+        "true_cluster_id": 19,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/123.jpg",
+        "cluster_id": "1",
+        "true_cluster_id": 19,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/124.jpg",
+        "cluster_id": "1",
+        "true_cluster_id": 19,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/57.jpg",
+        "cluster_id": 2,
+        "true_cluster_id": 8,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/60.jpg",
+        "cluster_id": "2",
+        "true_cluster_id": 8,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/56.jpg",
+        "cluster_id": "2",
+        "true_cluster_id": 8,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/95.jpg",
+        "cluster_id": "2",
+        "true_cluster_id": 15,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/58.jpg",
+        "cluster_id": "2",
+        "true_cluster_id": 8,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/99.jpg",
+        "cluster_id": "2",
+        "true_cluster_id": 15,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/96.jpg",
+        "cluster_id": "2",
+        "true_cluster_id": 15,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/97.jpg",
+        "cluster_id": "2",
+        "true_cluster_id": 15,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/59.jpg",
+        "cluster_id": "2",
+        "true_cluster_id": 8,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/94.jpg",
+        "cluster_id": 3,
+        "true_cluster_id": 14,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/90.jpg",
+        "cluster_id": "3",
+        "true_cluster_id": 14,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/91.jpg",
+        "cluster_id": "3",
+        "true_cluster_id": 14,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/92.jpg",
+        "cluster_id": "3",
+        "true_cluster_id": 14,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/93.jpg",
+        "cluster_id": "3",
+        "true_cluster_id": 14,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/48.jpg",
+        "cluster_id": 4,
+        "true_cluster_id": 6,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/10.jpg",
+        "cluster_id": "4",
+        "true_cluster_id": 1,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/51.jpg",
+        "cluster_id": "4",
+        "true_cluster_id": 6,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/73.jpg",
+        "cluster_id": "4",
+        "true_cluster_id": 10,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/50.jpg",
+        "cluster_id": "4",
+        "true_cluster_id": 6,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/47.jpg",
+        "cluster_id": "4",
+        "true_cluster_id": 6,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/12.jpg",
+        "cluster_id": "4",
+        "true_cluster_id": 1,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/49.jpg",
+        "cluster_id": "4",
+        "true_cluster_id": 6,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/13.jpg",
+        "cluster_id": "4",
+        "true_cluster_id": 1,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/74.jpg",
+        "cluster_id": "4",
+        "true_cluster_id": 10,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/64.jpg",
+        "cluster_id": 5,
+        "true_cluster_id": 9,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/32.jpg",
+        "cluster_id": "5",
+        "true_cluster_id": 3,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/61.jpg",
+        "cluster_id": "5",
+        "true_cluster_id": 9,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/24.jpg",
+        "cluster_id": "5",
+        "true_cluster_id": 3,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/30.jpg",
+        "cluster_id": "5",
+        "true_cluster_id": 3,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/26.jpg",
+        "cluster_id": "5",
+        "true_cluster_id": 3,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/29.jpg",
+        "cluster_id": "5",
+        "true_cluster_id": 3,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/25.jpg",
+        "cluster_id": "5",
+        "true_cluster_id": 3,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/31.jpg",
+        "cluster_id": "5",
+        "true_cluster_id": 3,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/33.jpg",
+        "cluster_id": "5",
+        "true_cluster_id": 3,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/62.jpg",
+        "cluster_id": "5",
+        "true_cluster_id": 9,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/2.jpg",
+        "cluster_id": 6,
+        "true_cluster_id": 0,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/0.jpg",
+        "cluster_id": "6",
+        "true_cluster_id": 0,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/5.jpg",
+        "cluster_id": "6",
+        "true_cluster_id": 0,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/8.jpg",
+        "cluster_id": "6",
+        "true_cluster_id": 0,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/1.jpg",
+        "cluster_id": "6",
+        "true_cluster_id": 0,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/6.jpg",
+        "cluster_id": "6",
+        "true_cluster_id": 0,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/17.jpg",
+        "cluster_id": 7,
+        "true_cluster_id": 2,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/23.jpg",
+        "cluster_id": "7",
+        "true_cluster_id": 2,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/100.jpg",
+        "cluster_id": "7",
+        "true_cluster_id": 16,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/20.jpg",
+        "cluster_id": "7",
+        "true_cluster_id": 2,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/21.jpg",
+        "cluster_id": "7",
+        "true_cluster_id": 2,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/14.jpg",
+        "cluster_id": "7",
+        "true_cluster_id": 2,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/22.jpg",
+        "cluster_id": "7",
+        "true_cluster_id": 2,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/15.jpg",
+        "cluster_id": "7",
+        "true_cluster_id": 2,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/19.jpg",
+        "cluster_id": "7",
+        "true_cluster_id": 2,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/36.jpg",
+        "cluster_id": "7",
+        "true_cluster_id": 4,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/16.jpg",
+        "cluster_id": "7",
+        "true_cluster_id": 2,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/41.jpg",
+        "cluster_id": "7",
+        "true_cluster_id": 5,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/105.jpg",
+        "cluster_id": "7",
+        "true_cluster_id": 16,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/39.jpg",
+        "cluster_id": "7",
+        "true_cluster_id": 5,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/3.jpg",
+        "cluster_id": 8,
+        "true_cluster_id": 0,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/77.jpg",
+        "cluster_id": "8",
+        "true_cluster_id": 11,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/78.jpg",
+        "cluster_id": "8",
+        "true_cluster_id": 11,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/4.jpg",
+        "cluster_id": "8",
+        "true_cluster_id": 0,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/28.jpg",
+        "cluster_id": 9,
+        "true_cluster_id": 3,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/27.jpg",
+        "cluster_id": "9",
+        "true_cluster_id": 3,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/76.jpg",
+        "cluster_id": 10,
+        "true_cluster_id": 11,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/79.jpg",
+        "cluster_id": "10",
+        "true_cluster_id": 11,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/80.jpg",
+        "cluster_id": "10",
+        "true_cluster_id": 11,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/107.jpg",
+        "cluster_id": 11,
+        "true_cluster_id": 17,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/106.jpg",
+        "cluster_id": "11",
+        "true_cluster_id": 17,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/109.jpg",
+        "cluster_id": "11",
+        "true_cluster_id": 17,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/108.jpg",
+        "cluster_id": "11",
+        "true_cluster_id": 17,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/69.jpg",
+        "cluster_id": 12,
+        "true_cluster_id": 10,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/67.jpg",
+        "cluster_id": "12",
+        "true_cluster_id": 10,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/68.jpg",
+        "cluster_id": 12,
+        "true_cluster_id": 10,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/70.jpg",
+        "cluster_id": 12,
+        "true_cluster_id": 10,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/66.jpg",
+        "cluster_id": 12,
+        "true_cluster_id": 10,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/71.jpg",
+        "cluster_id": 12,
+        "true_cluster_id": 10,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/72.jpg",
+        "cluster_id": 12,
+        "true_cluster_id": 10,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/75.jpg",
+        "cluster_id": 12,
+        "true_cluster_id": 10,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/18.jpg",
+        "cluster_id": 13,
+        "true_cluster_id": 2,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/55.jpg",
+        "cluster_id": 14,
+        "true_cluster_id": 7,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/54.jpg",
+        "cluster_id": "14",
+        "true_cluster_id": 7,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/53.jpg",
+        "cluster_id": "14",
+        "true_cluster_id": 7,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/52.jpg",
+        "cluster_id": 14,
+        "true_cluster_id": 7,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/110.jpg",
+        "cluster_id": 15,
+        "true_cluster_id": 17,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/63.jpg",
+        "cluster_id": 16,
+        "true_cluster_id": 9,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/65.jpg",
+        "cluster_id": "16",
+        "true_cluster_id": 9,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/83.jpg",
+        "cluster_id": 17,
+        "true_cluster_id": 12,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": false,
+        "value": "/Birds/81.jpg",
+        "cluster_id": "17",
+        "true_cluster_id": 12,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/82.jpg",
+        "cluster_id": 17,
+        "true_cluster_id": 12,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/103.jpg",
+        "cluster_id": 18,
+        "true_cluster_id": 16,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/101.jpg",
+        "cluster_id": 18,
+        "true_cluster_id": 16,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/104.jpg",
+        "cluster_id": 18,
+        "true_cluster_id": 16,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/102.jpg",
+        "cluster_id": 18,
+        "true_cluster_id": 16,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ],
+    [
+      {
+        "is_hard": false,
+        "value": "/Birds/88.jpg",
+        "cluster_id": 19,
+        "true_cluster_id": 13,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/84.jpg",
+        "cluster_id": 19,
+        "true_cluster_id": 13,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/86.jpg",
+        "cluster_id": 19,
+        "true_cluster_id": 13,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/89.jpg",
+        "cluster_id": 19,
+        "true_cluster_id": 13,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/87.jpg",
+        "cluster_id": 19,
+        "true_cluster_id": 13,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      },
+      {
+        "is_hard": true,
+        "value": "/Birds/85.jpg",
+        "cluster_id": 19,
+        "true_cluster_id": 13,
+        "predicted_cluster": null,
+        "visited_clusters": {}
+      }
+    ]
+  ],
+  "hard": [
+    "/Birds/44.jpg",
+    "/Birds/37.jpg",
+    "/Birds/40.jpg",
+    "/Birds/46.jpg",
+    "/Birds/38.jpg",
+    "/Birds/7.jpg",
+    "/Birds/34.jpg",
+    "/Birds/45.jpg",
+    "/Birds/11.jpg",
+    "/Birds/35.jpg",
+    "/Birds/98.jpg",
+    "/Birds/9.jpg",
+    "/Birds/42.jpg",
+    "/Birds/112.jpg",
+    "/Birds/43.jpg"
+  ]
+}
