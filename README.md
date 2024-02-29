@@ -47,6 +47,14 @@ The parameters related to the simulation can be set in the `main()` function in 
 
 If you find our repository useful for your research, please consider citing our paper:
 ```
-@article{Chen_Vinayak_Hassibi_2023, title={Crowdsourced Clustering via Active Querying: Practical Algorithm with Theoretical Guarantees}, volume={11}, url={https://ojs.aaai.org/index.php/HCOMP/article/view/27545}, DOI={10.1609/hcomp.v11i1.27545}, abstractNote={We consider the problem of clustering n items into K disjoint clusters using noisy answers from crowdsourced workers to pairwise queries of the type: “Are items i and j from the same cluster?” We propose a novel, practical, simple, and computationally efficient active querying algorithm for crowdsourced clustering. Furthermore, our algorithm does not require knowledge of unknown problem parameters. We show that our algorithm succeeds in recovering the clusters when the crowdworkers provide answers with an error probability less than 1/2 and provide sample complexity bounds on the number of queries made by our algorithm to guarantee successful clustering. While the bounds depend on the error probabilities, the algorithm itself does not require this knowledge. In addition to the theoretical guarantee, we implement and deploy the proposed algorithm on a real crowdsourcing platform to characterize its performance in real-world settings. Based on both the theoretical and the empirical results, we observe that while the total number of queries made by the active clustering algorithm is order-wise better than random querying, the advantage applies most conspicuously when the datasets have small clusters. For datasets with large enough clusters, passive querying can often be more efficient in practice. Our observations and practically implementable active clustering algorithm can inform and aid the design of real-world crowdsourced clustering systems. We make the dataset collected through this work publicly available (and the code to run such experiments).}, number={1}, journal={Proceedings of the AAAI Conference on Human Computation and Crowdsourcing}, author={Chen, Yi and Vinayak, Ramya Korlakai and Hassibi, Babak}, year={2023}, month={Nov.}, pages={27-37} }
+@inproceedings{chen2023crowdsourced,
+  title={Crowdsourced Clustering via Active Querying: Practical Algorithm with Theoretical Guarantees},
+  author={Chen, Yi and Vinayak, Ramya Korlakai and Hassibi, Babak},
+  booktitle={Proceedings of the AAAI Conference on Human Computation and Crowdsourcing},
+  volume={11},
+  number={1},
+  pages={27--37},
+  year={2023}
+}
 ```
 
